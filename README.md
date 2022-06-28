@@ -1,4 +1,4 @@
-👋 Hi there, I’m Fiona Roy, you can find my Portfolio here
+👋 Hi there, I’m Fiona Roy, you can find my Portfolio here [docs/index.md]
 
 ✏️ I'm a Native English technical writer
 
