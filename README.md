@@ -1,8 +1,8 @@
-👋 Hi there, I’m Fiona Roy, you can find samples of my writing here https://firoyj.github.io/Portfolio-1/ and (https://github.com/firoyj/Fiona-Roy/blob/main/docs/index.md)](https://firoyj.github.io/Portfolio-2/)
+👋 Hi there, I’m Fiona Roy, you can find samples of my writing here https://firoyj.github.io/Portfolio-1/ and https://firoyj.github.io/Portfolio-2/
 
-✏️ I'm a Native English technical writer
+✏️ Native English technical writer
 
-🚀 Working in Web3, Blockchain and SaaS in general
+🚀 Working in Web3, Blockchain and SaaS
 
 💡 A fan of Docs-as-Code, open source and agile approaches
 
