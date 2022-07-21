@@ -1,4 +1,4 @@
-👋 Hi there, I’m Fiona Roy, you can find samples of my writing here https://firoyj.github.io/Portfolio-1/ and https://firoyj.github.io/Portfolio-2/
+👋 Hi there, I’m Fiona Roy, you can find samples of my writing here
 
 ✏️ Native English technical writer
 
